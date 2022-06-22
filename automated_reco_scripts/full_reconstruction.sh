@@ -1,5 +1,5 @@
 #environment variables with paths
-export FEDRA_RECO_SCRIPTS=/home/antonio/Lavoro/tutorial_fedra/recoscripts_Tatiana
+export FEDRA_RECO_SCRIPTS=/home/antonio/Lavoro/tutorial_fedra/automated_reco_scripts
 export EMU_RAW_DATA_FOLDER=/home/emu/CERN_SND/CERN_DATA
 export EMU_RECO_DATA_FOLDER=/home/emu/CERN_SND/shch
 
