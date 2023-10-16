@@ -8,6 +8,12 @@ Indeed, when SWAN turns on, set the setup script to:
 
 Then you are good to go
 
-## Order of tutorials
+## First Tutorial Session (2022)
+
+Used Cosmic dataset
 
 The first tutorial to be launched is the FEDRA application one, which will create the file for all others to be used
+
+## Second Tutorial Session (2023)
+
+Using Run 1 dataset
