@@ -1,0 +1,9 @@
+executable = condortracking_vtx.sh
+arguments = $(ClusterID) $(ProcId) $(CELL) $(from_plate) $(to_plate)
+output = output/trackingvtx.$(ClusterId).$(ProcId).out
+error = error/trackingvtx.$(ClusterId).$(ProcId).err
+log = log/trackingvtx.$(ClusterId).log
++JobFlavour = "testmatch"
+request_memory = 20GB
+notification = Never
+queue CELL in 152,153,170,171

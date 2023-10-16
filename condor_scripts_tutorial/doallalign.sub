@@ -1,0 +1,9 @@
+executable = doallalign.sh
+arguments = $(ClusterID) $(ProcId) 47 41
+output = output/align.$(ClusterId).$(ProcId).out
+error = error/align.$(ClusterId).$(ProcId).err
+log = log/align.$(ClusterId).log
++JobFlavour = "tomorrow"
+notification = Never
+queue 1
+
